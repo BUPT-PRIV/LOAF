@@ -1,0 +1,4 @@
+# ninja log v5
+0	3730	1652688479076382185	/data02/liliulei/DAB-DETR-main/models/dab_deformable_detr/ops/build/temp.linux-x86_64-3.8/data02/liliulei/DAB-DETR-main/models/dab_deformable_detr/ops/src/cpu/ms_deform_attn_cpu.o	5397307bb8b26d63
+0	13394	1652688488729012941	/data02/liliulei/DAB-DETR-main/models/dab_deformable_detr/ops/build/temp.linux-x86_64-3.8/data02/liliulei/DAB-DETR-main/models/dab_deformable_detr/ops/src/cuda/ms_deform_attn_cuda.o	ddd592088fbd15bd
+0	21612	1652688496950550180	/data02/liliulei/DAB-DETR-main/models/dab_deformable_detr/ops/build/temp.linux-x86_64-3.8/data02/liliulei/DAB-DETR-main/models/dab_deformable_detr/ops/src/vision.o	cf59763200f0943c
